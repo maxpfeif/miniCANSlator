@@ -1,0 +1,6 @@
+[submodule "miniCAN_hardware_test/lib/FlexCAN_Library"]
+	path = miniCAN_hardware_test/lib/FlexCAN_Library
+	url = https://github.com/maxpfeif/FlexCAN_Library.git
+[submodule "miniCAN_hardware_test/lib/mcp2515"]
+	path = miniCAN_hardware_test/lib/mcp2515
+	url = https://github.com/maxpfeif/mcp2515.git
